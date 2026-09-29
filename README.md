@@ -22,7 +22,7 @@ Project| Description| Technologies
 
  ## 🎓 Background
 
- BCA · Darshan College · 2021–2024
+ -BCA · Darshan College · 2021–2024
  DevOps Internship · MNP Technologies · 1 Year
 
  ## 🌱 Currently Learning & Building
@@ -46,4 +46,8 @@ Project| Description| Technologies
                📍 Bangalore, Karnataka
 </p>
 
-  
+  <p align="center">
+  <img src="https://img.shields.io/badge/DevOps-%238B5CF6?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-%233B82F6?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-%23A78BFA?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
