@@ -7,9 +7,10 @@
 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,Terraform" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,terraform" height="48" />
 </p><p align="center">
-  <sub>AWS · Linux · Shell Scripting · Git · GitHub · Docker · Kubernetes . Terraform </sub>
+  <sub>AWS · Linux · Shell Scripting · Git · GitHub · Docker · Kubernetes · Terraform</sub>
 </p><p align="center">
   <strong>AWS Services:</strong> EC2 · VPC · S3 · IAM · CloudWatch
 </p>
+
