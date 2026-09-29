@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVOPS-%238B5CF6?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/CLOUD-%233B82F6?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud" />
+  <img src="https://img.shields.io/badge/AUTOMATION-%23A78BFA?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+</p>
+
 <h1 align="center">𝑯𝒊, 𝑰'𝒎 𝑨𝒚𝒆𝒔𝒉𝒂 𝑩𝒊 👋</h1><p align="center">
   <strong> Aspiring DevOps Engineer · Cloud & Automation </strong>
 </p><p align="center">
