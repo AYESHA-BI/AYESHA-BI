@@ -14,4 +14,7 @@
   <strong>AWS Services:</strong> EC2 · VPC · S3 · IAM · CloudWatch
 </p>
 
+ ## 🚀 Projects
 
+Project| Description| Technologies
+"☁️ CloudForge" (https://github.com/AYESHA-BI/devops)| End-to-end DevOps automation and application deployment on AWS| Docker · Kubernetes · Terraform · AWS · Bash
