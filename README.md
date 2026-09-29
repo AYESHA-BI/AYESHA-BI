@@ -29,5 +29,5 @@ Project| Description| Technologies
 
 - Strengthening my hands-on DevOps skills
 - Building and improving cloud-based projects
-- Practicing linux, shellscripting, Kubernetes, Terraform & AWS
+- Practicing linux, shellscripting, docker, Kubernetes, Terraform & AWS
 - Exploring automation and deployment workflows
