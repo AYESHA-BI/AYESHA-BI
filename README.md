@@ -22,15 +22,15 @@ Project| Description| Technologies
 
  ## 🎓 Background
 
-- BCA · Darshan College · 2021–2024
-- DevOps Internship · MNP Technologies · 1 Year
+ BCA · Darshan College · 2021–2024
+ DevOps Internship · MNP Technologies · 1 Year
 
  ## 🌱 Currently Learning & Building
 
-- Strengthening my hands-on DevOps skills
-- Building and improving cloud-based projects
-- Practicing linux, shellscripting, docker, Kubernetes, Terraform & AWS
-- Exploring automation and deployment workflows
+ Strengthening my hands-on DevOps skills
+ Building and improving cloud-based projects
+ Practicing linux, shellscripting, docker, Kubernetes, Terraform & AWS
+ Exploring automation and deployment workflows
 
  ## 📫 Contact
 
