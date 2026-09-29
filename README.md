@@ -17,4 +17,6 @@
  ## 🚀 Projects
 
 Project| Description| Technologies
-"☁️ CloudForge" (https://github.com/AYESHA-BI/devops)| End-to-end DevOps automation and application deployment on AWS| Docker · Kubernetes · Terraform · AWS · Bash
+"☁️ CloudForge" (https://github.com/AYESHA-BI/devops)| End-to-End DevOps automation and application deployment on AWS| 
+. Linux . Docker · Kubernetes · Terraform · AWS · Bash
+
