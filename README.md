@@ -37,7 +37,7 @@ Project| Description| Technologies
   </a>
   &nbsp;
   <a href="mailto:ayeshabi2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayeshabi2004%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email--EA4335?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p><p align="center">
   📍 <strong>Bangalore, Karnataka</strong>
