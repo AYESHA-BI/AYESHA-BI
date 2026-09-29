@@ -4,7 +4,7 @@
   Turning ideas into automated, cloud-powered solutions.
 </p>
 
-🛠️ Tech Stack
+ ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,terraform" height="48" />
@@ -14,12 +14,4 @@
   <strong>AWS Services:</strong> EC2 · VPC · S3 · IAM · CloudWatch
 </p>
 
-## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes,terraform" />
-</p>
-
-<p align="center">
-  <sub>EC2 · VPC · S3 · IAM · CloudWatch</sub>
-</p>
