@@ -41,6 +41,4 @@ Project| Description| Technologies
   </a>
 </p><p align="center">
   📍 <strong>Bangalore, Karnataka</strong>
-</p><p align="center">
-   <strong>Keep Learning · Keep Building · Keep Automating</strong> 
-</p>
+
