@@ -46,3 +46,16 @@ Project| Description| Technologies
                📍 Bangalore, Karnataka
 </p>
 
+📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayesha-bi-873a0233a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayeshabi2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayeshabi2004%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p><p align="center">
+  📍 Bangalore, Karnataka
+</p>
