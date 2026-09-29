@@ -31,3 +31,18 @@ Project| Description| Technologies
 - Building and improving cloud-based projects
 - Practicing linux, shellscripting, docker, Kubernetes, Terraform & AWS
 - Exploring automation and deployment workflows
+
+ ## 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayesha-bi-873a0233a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayeshabi2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" />
+  </a>
+</p><p align="center">
+               📍 Bangalore, Karnataka
+</p>
+
