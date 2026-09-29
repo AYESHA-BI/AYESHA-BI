@@ -3,3 +3,13 @@
 </p><p align="center">
   Turning ideas into automated, cloud-powered solutions.
 </p>
+
+🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,bash,git,github,docker,kubernetes" height="48" />
+</p><p align="center">
+  <sub>AWS · Linux · Shell Scripting · Git · GitHub · Docker · Kubernetes</sub>
+</p><p align="center">
+  <strong>AWS Services:</strong> EC2 · VPC · S3 · IAM · CloudWatch
+</p>
